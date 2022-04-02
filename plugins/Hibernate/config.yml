@@ -1,0 +1,5 @@
+# Dont Delete its A Custom Plugin for Nodes Not To Overload
+enabled: true
+sleepMillis: 1000
+unloadChunks: true
+blacklist: []
